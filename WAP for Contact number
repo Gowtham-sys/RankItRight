@@ -1,0 +1,9 @@
+import re 
+def isValid(s)
+pattern = re.compile("(1|+) [2-6][4-6] [0-9] {10}")
+return pattern.match(s)
+s = "2124567890"
+if (isValid(s)):
+print ("Valid Number")
+else :
+print ("Invalid Number")

@@ -1,0 +1,7 @@
+for link in links : 
+if "Linkedin " in link:
+print ("we found a linked in link ")
+sn_links =["facebook"]
+for social in sn_link:
+if social in link:
+print ("we found a social link")
