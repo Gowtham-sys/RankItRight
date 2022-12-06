@@ -1,0 +1,15 @@
+                                               ASSESSMENT ROUND 1
+A .What is reverse-i-search in a Linux terminal?
+It is the key word to search backward starting at the current line and moving ‘up’ through the history as necessary. This is an incremental search. ( source) 
+
+B. How do you list out the hidden directories using Linux command line tool?
+If we  want to list all hidden files in a directory using ls command, you need to pass -a or -al option to ls command. type the following command.
+
+C. How comfortable are you with using Linux-based OS like Ubuntu, Centos, etc?
+I am very comfortable to work in linux based OS because I have an experience in working in the environment.
+D . Have you ever used Servers to host any web applications in the past? If yes, what services did you set up (Like- Apache/Nginx/FTP/SMTP, etc)?
+I have knowledge about these servers which I have been studied in college , but not yet hosted also I know how to do
+
+
+
+
