@@ -1,7 +1,15 @@
-for link in links : 
-if "Linkedin " in link:
-print ("we found a linked in link ")
-sn_links =["facebook"]
-for social in sn_link:
+import requests
+form bs4 import BeautifulSoup
+r = requests.get('https://ful.io')
+print(contact numbers)
+print (Eamil )
+sn_links = ["facebook"] # etc.
+for link in links:
+for social in sn_links:
 if social in link:
-print ("we found a social link")
+print("We found a social Link")
+sn_links = ["linkedin"] # etc.
+for link in links:
+for social in sn_links:
+if social in link:
+print ("we found a social link)
